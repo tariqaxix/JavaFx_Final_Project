@@ -10,12 +10,8 @@ This is a simple gadgets and device management application built using JavaFX. I
 
 **Software and Libraries Used**
 
-This app is created using the following applications and libraries
-JDK (Java Development Kit)
-JavaFX
-An IDE (Integrated Development Environment) such as IntelliJ IDEA
-Scene Builder
-FXML and CSS for interactive interface
+This app is created using the following applications and libraries: 
+JDK (Java Development Kit), JavaFX, An IDE (Integrated Development Environment) such as IntelliJ IDEA, Scene Builder, FXML and CSS for interactive interface
 
 
 
