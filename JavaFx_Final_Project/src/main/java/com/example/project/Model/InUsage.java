@@ -1,0 +1,18 @@
+package com.example.project.Model;
+
+public class InUsage extends Gadgets {
+    private int machineId;
+
+    public InUsage(int id, String name, double price, int stock, int min, int max, int machineId) {
+        super(id, name, price, stock, min, max);
+        this.machineId = machineId;
+    }
+
+    public int getMachineId() {
+        return machineId;
+    }
+
+    public void setMachineId(int machineId) {
+        this.machineId = machineId;
+    }
+}
