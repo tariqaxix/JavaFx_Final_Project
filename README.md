@@ -75,7 +75,6 @@ Analytics and reports generation, and integration with other apps and systems.
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/87133084/209972917-bbbcee82-1464-4585-b4a5-cc9ed6cf7583.png">
 
 
-<img width="277" alt="image" src="https://user-images.githubusercontent.com/87133084/209973151-96d69642-34d4-4227-9373-958331e1aad4.png">
 
 
 
